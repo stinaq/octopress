@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning a CSS preprocessor language. Why?"
-date: 2013-09-01 21:15
+date: 2013-07-13 21:15
 comments: false
 categories: 
 - Things that annoy me
@@ -12,7 +12,7 @@ The important question here is: Can you get by without it?
 
 Here’s how it usually plays out when you take your first steps into the world of web styling: You start out with learning CSS, setting colors, height of boxes. Getting annoyed with margins not behaving as they should.  Creating classes, using IDs, getting annoyed with specificity. Trying out gridsystems, using hover and getting annoyed with  float. Actually, a lot of CSS creates some itchy feelings. In my opinion, it is too simple. There’s too much manual labour, too high a risk for mistakes.
 
-CSS preprocessor languages are, for me, a way to make it bearable. Here follows a short introduction to LESS, a preprocessor language that I recently looked at at work. The other big player in the field is Sass, a comparison of the two will feature in a future post. This is a really short and simple summary of what Less can do
+CSS preprocessor languages are, for me, a way to make it bearable. Here follows a short introduction to [LESS](http://lesscss.org/), a preprocessor language that I recently looked at at work. The other big player in the field is [Sass](http://sass-lang.com/), a comparison of the two will feature in a future post. This is a really short and simple summary of what Less can do
 
 Top 3 things that LESS can do:
 
@@ -79,7 +79,7 @@ Will output this:
 
 ## Libraries
 
-With both LESS and Sass you can import libraries with mixins to use. Finished, usable snippets that help with browser support and complex CSS3 attributes. For SASS the most popular one is Compass, for Less there are LESSHat, Bootstrap and Elements, among others. For example you can use the .transform mixin to transform an element with your prefered values, without having to worry about browser compatibility. Or the .border-radius one that creates nice, rounded corners for you. Extremely practical!
+With both LESS and Sass you can import libraries with mixins to use. Finished, usable snippets that help with browser support and complex CSS3 attributes. For SASS the most popular one is [Compass](http://compass-style.org/), for Less there are [LESSHat](http://lesshat.com/), [Bootstrap](http://bootstrap.lesscss.ru/less.html) and [Elements](http://lesselements.com/), among others. For example you can use the .transform mixin to transform an element with your prefered values, without having to worry about browser compatibility. Or the [border-radius](http://lesshat.com/#transform) one that creates nice, rounded corners for you. Extremely practical!
 
  
 

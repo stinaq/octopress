@@ -1,0 +1,52 @@
+
+
+
+
+body{
+	background-color: #3E3559;
+	font-family: 'Raleway', sans-serif;
+}
+
+.container {
+	.left-col{
+		#header{
+			padding-top: 80px;
+			padding-left: 50px;
+			.profilepic{
+				display:none;
+			}
+			#sub-nav{ 
+				margin-top:0;
+				.social a{
+					text-indent:0;
+					clear:both;
+					margin-bottom: 0;
+					opacity: 0.9;
+					&.github, &.rss{
+						background:none;
+						border:none;
+						&:hover{
+							border:none;
+						}
+					}
+					
+				}
+			}
+		}
+	}
+	.mid-col {
+		border-left: 5px solid $greyshade;
+		.mid-col-container{
+			padding-left: 70px;
+		}
+	}
+}
+
+.post .meta .date:before, .post .meta .tags:before {
+content: "";
+}
+
+article{
+	padding-top: 80px;
+}
+.comodo{color:black}

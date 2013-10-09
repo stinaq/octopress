@@ -15,3 +15,16 @@ $font-icon-path: "/font/fontawesome-webfont";
 	font-weight: normal;
 	font-style: normal;
 }
+
+$font-raleway-path: "/font/raleway/Raleway-Medium-webfont";
+@font-face {
+    font-family: 'Raleway';
+    src: url('#{$font-raleway-path}.eot');
+    src: url('#{$font-raleway-path}.eot?#iefix') format('embedded-opentype'),
+		 url('#{$font-raleway-path}.svg#rRaleway') format('svg'),
+         url('#{$font-raleway-path}.woff') format('woff'),
+         url('#{$font-raleway-path}.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

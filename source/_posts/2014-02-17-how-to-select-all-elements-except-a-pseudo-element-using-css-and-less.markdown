@@ -9,7 +9,7 @@ categories:
 - Tutorial
 ---
 
-This may not be the easiest way to achieve this results, but I wanted to share it because it was genuinly awesome. 
+This may not be the easiest way to achieve this results, but I wanted to share it because it was genuinely awesome. 
 
 I wanted to put a bottom margin on all elements, except the last one, and I wanted to do it using nested LESS-syntax. Sure, I could just write two rules, one that put the bottom margin on all elements, and one that removed it on the last child. Like this:
 

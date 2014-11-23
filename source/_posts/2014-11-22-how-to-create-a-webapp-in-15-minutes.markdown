@@ -31,6 +31,10 @@ npm
 
 Press enter. That's it. You get a response that says stuff about how npm works. Moving on to the next step!
 
+Install Git
+-----------
+Git needs to be installed in order to get some other things (Bower) working. Go to [http://git-scm.com/downloads](http://git-scm.com/downloads), download and install.
+
 Install Yeoman
 --------------
 [Yeoman](http://yeoman.io) is a program that helps you generate skeletons for your future web page or web application. Install it by typing this into your terminal/Power Shell:

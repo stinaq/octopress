@@ -50,7 +50,7 @@ And no padding or margin top or bottom on the children, that messes everything u
 
 <img src="https://dl.dropboxusercontent.com/u/16864288/blogg/verticle-align-with-table1.PNG">
 
-Want a clearer picture and try it out yourself? [Here's a plunker where you can do that](http://plnkr.co/edit/t319jK5ThJ3mDPtoQ6ak?p=preview)
+Want a clearer picture and try it out yourself? [Here's a plunker where you can do that](http://plnkr.co/edit/t319jK5ThJ3mDPtoQ6ak?p=preview).
 
 So you tried this and there's no magic?
 -------------------------------------

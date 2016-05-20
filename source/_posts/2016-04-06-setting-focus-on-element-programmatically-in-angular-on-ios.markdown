@@ -23,7 +23,7 @@ First thing first, what are the ways the keyboard appears in iOS?
 1. The natural way, the user taps an input element and the browser focuses that element and shows the keyboard
 2. The programatic way, the user taps an element and a click handler sets the focus to a different element, but within what the iOS browser considers to be the same action.
 
-Focus unsing a click handler
+Focus using a click handler
 ---------------------------
 You can attach a jQuery click handler (probably also a native click handler, but I didn't try that) to an element and inside that set focus on an input field, and that will show the keyboard, like this:
 

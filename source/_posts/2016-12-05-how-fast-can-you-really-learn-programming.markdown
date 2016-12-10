@@ -12,11 +12,11 @@ In the course I'm creating now, Pinkwebdev (an evening course for women), I deci
 
 In hindsight this might not be such a novel thing, after all Khan Academy is huge in promoting the flipped classroom idea. For me it opens up for using all the time we see the students to just talking and together solving problems. It also makes it possible for students to learn at their own speed, rewatch videos, or skip things they already know.
 
-What it doesn't do is give opportunity for questions, your just supposed to watch all the videos and then do excercises later on. And that sort of separates the theory from the practice, wich also could be a bad thing. But for me that's the lesser of two evils. Better to be able to actually program when you see the reast of the group and the assistants.
+What it doesn't do is give opportunity for questions, you're just supposed to watch all the videos and then do excercises later on, when we meet. And that sort of separates the theory from the practice, wich also could be a bad thing. But for me that's the lesser of two evils. Better to be able to actually program when you see the reast of the group and the assistants.
 
-But the main question I have now is how fast can you really learn? What is reasonable to learn in a week? I mean, you can go to university for 5 years to learn qomputer science, how far can you really get in 12 weeks?
+But the main question I have now is how fast can you really learn? What is reasonable to learn in a week? I mean, you can go to university for 5 years to learn computer science, how far can you really get in 12 weeks?
 
-I'm actually quite nervous now that I have set up to high a speed. Betweek week 1 and 2 I'm discussing 
+I'm actually quite nervous now that I have set up too high a speed. Betweek week 1 and 2 I'm discussing 
 
 * Running a function, with and without parameters
 * Creating and using variables
